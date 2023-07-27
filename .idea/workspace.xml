@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba0f21a-a055-4e59-8d85-081b86fa1460" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fa668a51-06ee-4422-9771-10c4d8cbe82f.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fa668a51-06ee-4422-9771-10c4d8cbe82f/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fa668a51-06ee-4422-9771-10c4d8cbe82f/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fa668a51-06ee-4422-9771-10c4d8cbe82f/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fa668a51-06ee-4422-9771-10c4d8cbe82f/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bookstore/Security/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bookstore/Security/SpringSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bookstore/ProductRepoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bookstore/ProductRepoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bookstore/UserRepoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bookstore/UserRepoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/BookStoreApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/BookStoreApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Order$OrderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Order$OrderBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Product$ProductBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Role$RoleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Role$RoleBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/User$UserBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/OrderPojo$OrderPojoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/OrderPojo$OrderPojoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/OrderPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/OrderPojo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/ProductPojo$ProductPojoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/ProductPojo$ProductPojoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/ProductPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/ProductPojo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/UserPojo$UserPojoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/UserPojo$UserPojoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/UserPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Pojo/UserPojo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/OrderRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/OrderRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/ProductRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/ProductRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Repo/UserRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Security/SpringSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Security/SpringSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/CustomUserDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/CustomUserDetailService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/Impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/OrderServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/OrderServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/ProductServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/ProductServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/UserServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/Services/UserServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/config/PasswordEncoderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/config/PasswordEncoderUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/bookstore/exception/AppException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/bookstore/exception/AppException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/bookstore/BookStoreApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/bookstore/BookStoreApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/bookstore/ProductRepoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/bookstore/UserRepoTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +90,8 @@
       <workItem from="1688607887295" duration="40000" />
       <workItem from="1688607983630" duration="42000" />
       <workItem from="1688704704033" duration="1051000" />
-      <workItem from="1689212607638" duration="3247000" />
+      <workItem from="1689212607638" duration="3617000" />
+      <workItem from="1689611459984" duration="11000" />
     </task>
     <servers />
   </component>
